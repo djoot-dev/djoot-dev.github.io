@@ -1,5 +1,5 @@
 (function () {
-  var THEME_KEY = "totalfreak-site-theme";
+  var THEME_KEY = "djoot-dev-site-theme";
   var root = document.documentElement;
 
   function applyTheme(theme) {
